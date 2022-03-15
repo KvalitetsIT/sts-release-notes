@@ -10,6 +10,7 @@
 
 **Merged pull requests:**
 
+- Support cert-manager.io/v1 in helm chart. [\#16](https://github.com/KvalitetsIT/sts/pull/16) ([JonasPed](https://github.com/JonasPed))
 - Create release note. [\#15](https://github.com/KvalitetsIT/sts/pull/15) ([JonasPed](https://github.com/JonasPed))
 
 ## [v1.0.19](https://github.com/KvalitetsIT/sts/tree/v1.0.19) (2022-02-14)
