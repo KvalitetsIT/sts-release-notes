@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.0.21](https://github.com/KvalitetsIT/sts/tree/v1.0.21) (2022-03-17)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.20...v1.0.21)
+
+**Merged pull requests:**
+
+- Add sealed secret to Helm [\#17](https://github.com/KvalitetsIT/sts/pull/17) ([NeutraChikara](https://github.com/NeutraChikara))
+
 ## [v1.0.20](https://github.com/KvalitetsIT/sts/tree/v1.0.20) (2022-03-15)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.19...v1.0.20)
