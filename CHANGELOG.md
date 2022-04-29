@@ -1,5 +1,24 @@
 # Changelog
 
+## [Unreleased](https://github.com/KvalitetsIT/sts/tree/HEAD)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.22...HEAD)
+
+**Closed issues:**
+
+- Update dependencies [\#24](https://github.com/KvalitetsIT/sts/issues/24)
+
+## [v1.0.22](https://github.com/KvalitetsIT/sts/tree/v1.0.22) (2022-04-29)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.21...v1.0.22)
+
+**Merged pull requests:**
+
+- Upgrade to spring boot 2.6.7 [\#29](https://github.com/KvalitetsIT/sts/pull/29) ([JonasPed](https://github.com/JonasPed))
+- Disable SSL on actuator endpoint [\#22](https://github.com/KvalitetsIT/sts/pull/22) ([JonasPed](https://github.com/JonasPed))
+- STS should be able to start without $STS\_TRUST\_CA\_PATH set. [\#21](https://github.com/KvalitetsIT/sts/pull/21) ([JonasPed](https://github.com/JonasPed))
+- Updated entrypoint.sh with USE\_CRA\_DB [\#19](https://github.com/KvalitetsIT/sts/pull/19) ([oscarorellanakit](https://github.com/oscarorellanakit))
+
 ## [v1.0.21](https://github.com/KvalitetsIT/sts/tree/v1.0.21) (2022-03-17)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.20...v1.0.21)
