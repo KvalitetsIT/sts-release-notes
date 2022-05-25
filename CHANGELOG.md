@@ -1,12 +1,22 @@
 # Changelog
 
-## [Unreleased](https://github.com/KvalitetsIT/sts/tree/HEAD)
+## [v1.0.23](https://github.com/KvalitetsIT/sts/tree/v1.0.23) (2022-05-25)
 
-[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.22...HEAD)
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.22...v1.0.23)
 
 **Closed issues:**
 
 - Update dependencies [\#24](https://github.com/KvalitetsIT/sts/issues/24)
+
+**Merged pull requests:**
+
+- Upgrade CXF to 3.5.2 [\#32](https://github.com/KvalitetsIT/sts/pull/32) ([JonasPed](https://github.com/JonasPed))
+- Bump gson from 2.8.5 to 2.8.9 in /sts-config-validation [\#31](https://github.com/KvalitetsIT/sts/pull/31) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump gson from 2.8.5 to 2.8.9 in /sts [\#30](https://github.com/KvalitetsIT/sts/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump xmlsec from 2.1.4 to 2.1.7 in /soap-client [\#8](https://github.com/KvalitetsIT/sts/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump httpclient from 4.5 to 4.5.13 in /sts-integrationtest [\#7](https://github.com/KvalitetsIT/sts/pull/7) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump httpclient from 4.5 to 4.5.13 in /rest-client-example [\#6](https://github.com/KvalitetsIT/sts/pull/6) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump httpclient from 4.5 to 4.5.13 in /rest-client [\#5](https://github.com/KvalitetsIT/sts/pull/5) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.0.22](https://github.com/KvalitetsIT/sts/tree/v1.0.22) (2022-04-29)
 
