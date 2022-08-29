@@ -1,5 +1,20 @@
 # Changelog
 
+## [v1.0.24](https://github.com/KvalitetsIT/sts/tree/v1.0.24) (2022-08-29)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.23...v1.0.24)
+
+**Closed issues:**
+
+- Make dependabot update dependencies [\#33](https://github.com/KvalitetsIT/sts/issues/33)
+
+**Merged pull requests:**
+
+- Usage metrics [\#54](https://github.com/KvalitetsIT/sts/pull/54) ([JonasPed](https://github.com/JonasPed))
+- A few more maven dependency updates [\#53](https://github.com/KvalitetsIT/sts/pull/53) ([JonasPed](https://github.com/JonasPed))
+- Dependency updates [\#52](https://github.com/KvalitetsIT/sts/pull/52) ([JonasPed](https://github.com/JonasPed))
+- Automatic PR's for dependency updates. Solves \#33. [\#34](https://github.com/KvalitetsIT/sts/pull/34) ([JonasPed](https://github.com/JonasPed))
+
 ## [v1.0.23](https://github.com/KvalitetsIT/sts/tree/v1.0.23) (2022-05-25)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.22...v1.0.23)
