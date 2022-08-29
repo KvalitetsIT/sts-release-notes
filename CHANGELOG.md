@@ -10,6 +10,7 @@
 
 **Merged pull requests:**
 
+- Add description to metrics. [\#56](https://github.com/KvalitetsIT/sts/pull/56) ([JonasPed](https://github.com/JonasPed))
 - Usage metrics [\#54](https://github.com/KvalitetsIT/sts/pull/54) ([JonasPed](https://github.com/JonasPed))
 - A few more maven dependency updates [\#53](https://github.com/KvalitetsIT/sts/pull/53) ([JonasPed](https://github.com/JonasPed))
 - Dependency updates [\#52](https://github.com/KvalitetsIT/sts/pull/52) ([JonasPed](https://github.com/JonasPed))
