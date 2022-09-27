@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.0.25](https://github.com/KvalitetsIT/sts/tree/v1.0.25) (2022-09-27)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.24...v1.0.25)
+
+**Merged pull requests:**
+
+- Add support for startupProbe in helm chart. [\#69](https://github.com/KvalitetsIT/sts/pull/69) ([JonasPed](https://github.com/JonasPed))
+
 ## [v1.0.24](https://github.com/KvalitetsIT/sts/tree/v1.0.24) (2022-08-29)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.23...v1.0.24)
