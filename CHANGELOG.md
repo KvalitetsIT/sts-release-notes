@@ -1,5 +1,16 @@
 # Changelog
 
+## [v1.0.26](https://github.com/KvalitetsIT/sts/tree/v1.0.26) (2022-11-07)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.25...v1.0.26)
+
+**Merged pull requests:**
+
+- Bump gson from 2.8.9 to 2.10 [\#77](https://github.com/KvalitetsIT/sts/pull/77) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump cicirello/jacoco-badge-generator from 2.7.0 to 2.8.1 [\#76](https://github.com/KvalitetsIT/sts/pull/76) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump spring-boot-starter-parent from 2.7.3 to 2.7.5 [\#72](https://github.com/KvalitetsIT/sts/pull/72) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump mockserver-client-java from 5.3.0 to 5.14.0 [\#63](https://github.com/KvalitetsIT/sts/pull/63) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.25](https://github.com/KvalitetsIT/sts/tree/v1.0.25) (2022-09-27)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.24...v1.0.25)
