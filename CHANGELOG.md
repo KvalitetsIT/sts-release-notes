@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.0.27](https://github.com/KvalitetsIT/sts/tree/v1.0.27) (2022-11-29)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.26...v1.0.27)
+
+**Merged pull requests:**
+
+- Export trust store certificate metrics. [\#90](https://github.com/KvalitetsIT/sts/pull/90) ([JonasPed](https://github.com/JonasPed))
+- Export trust store certificate metrics. [\#89](https://github.com/KvalitetsIT/sts/pull/89) ([JonasPed](https://github.com/JonasPed))
+
 ## [v1.0.26](https://github.com/KvalitetsIT/sts/tree/v1.0.26) (2022-11-07)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.25...v1.0.26)
