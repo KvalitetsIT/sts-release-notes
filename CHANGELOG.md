@@ -1,5 +1,23 @@
 # Changelog
 
+## [Unreleased](https://github.com/KvalitetsIT/sts/tree/HEAD)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.28...HEAD)
+
+**Closed issues:**
+
+- Helm chart improvements [\#25](https://github.com/KvalitetsIT/sts/issues/25)
+
+## [v1.0.28](https://github.com/KvalitetsIT/sts/tree/v1.0.28) (2023-02-15)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.27...v1.0.28)
+
+**Merged pull requests:**
+
+- Helm chart improvements [\#111](https://github.com/KvalitetsIT/sts/pull/111) ([bork91](https://github.com/bork91))
+- Add default security context [\#110](https://github.com/KvalitetsIT/sts/pull/110) ([bork91](https://github.com/bork91))
+- Replace expired certificate in integrationtest. [\#108](https://github.com/KvalitetsIT/sts/pull/108) ([JonasPed](https://github.com/JonasPed))
+
 ## [v1.0.27](https://github.com/KvalitetsIT/sts/tree/v1.0.27) (2022-11-29)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.26...v1.0.27)
