@@ -1,12 +1,16 @@
 # Changelog
 
-## [Unreleased](https://github.com/KvalitetsIT/sts/tree/HEAD)
+## [v1.0.29](https://github.com/KvalitetsIT/sts/tree/v1.0.29) (2023-02-15)
 
-[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.28...HEAD)
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.28...v1.0.29)
 
 **Closed issues:**
 
 - Helm chart improvements [\#25](https://github.com/KvalitetsIT/sts/issues/25)
+
+**Merged pull requests:**
+
+- 25 helm chart improvements [\#112](https://github.com/KvalitetsIT/sts/pull/112) ([bork91](https://github.com/bork91))
 
 ## [v1.0.28](https://github.com/KvalitetsIT/sts/tree/v1.0.28) (2023-02-15)
 
