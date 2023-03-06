@@ -1,5 +1,19 @@
 # Changelog
 
+## [v1.0.30](https://github.com/KvalitetsIT/sts/tree/v1.0.30) (2023-03-06)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.29...v1.0.30)
+
+**Closed issues:**
+
+- To klienter med samme subject name, men forskellige certifikater [\#20](https://github.com/KvalitetsIT/sts/issues/20)
+
+**Merged pull requests:**
+
+- Allow different certificates for the "same" client. [\#118](https://github.com/KvalitetsIT/sts/pull/118) ([JonasPed](https://github.com/JonasPed))
+- Fix running integrationtests from IDE. [\#117](https://github.com/KvalitetsIT/sts/pull/117) ([JonasPed](https://github.com/JonasPed))
+- Bump cxf.version from 3.5.3 to 3.5.4 [\#80](https://github.com/KvalitetsIT/sts/pull/80) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.29](https://github.com/KvalitetsIT/sts/tree/v1.0.29) (2023-02-15)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.28...v1.0.29)
