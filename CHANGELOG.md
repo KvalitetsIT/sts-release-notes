@@ -1,5 +1,20 @@
 # Changelog
 
+## [v1.0.31](https://github.com/KvalitetsIT/sts/tree/v1.0.31) (2023-05-17)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.30...v1.0.31)
+
+**Merged pull requests:**
+
+- KH-514 : run with nonroot user [\#141](https://github.com/KvalitetsIT/sts/pull/141) ([mbirchdk](https://github.com/mbirchdk))
+- More cleanup and restore of certificate. [\#134](https://github.com/KvalitetsIT/sts/pull/134) ([JonasPed](https://github.com/JonasPed))
+- Code clean up and removal of unused certificate in integration test. [\#133](https://github.com/KvalitetsIT/sts/pull/133) ([JonasPed](https://github.com/JonasPed))
+- Bump gson from 2.10 to 2.10.1 [\#121](https://github.com/KvalitetsIT/sts/pull/121) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump logstash-logback-encoder from 6.3 to 7.3 [\#114](https://github.com/KvalitetsIT/sts/pull/114) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump manusa/actions-setup-minikube from 2.7.0 to 2.7.2 [\#93](https://github.com/KvalitetsIT/sts/pull/93) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump testcontainers-version from 1.17.3 to 1.17.6 [\#84](https://github.com/KvalitetsIT/sts/pull/84) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump maven-eclipse-plugin from 2.9 to 2.10 [\#57](https://github.com/KvalitetsIT/sts/pull/57) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.30](https://github.com/KvalitetsIT/sts/tree/v1.0.30) (2023-03-06)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.29...v1.0.30)
