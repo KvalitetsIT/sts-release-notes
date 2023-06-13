@@ -1,5 +1,22 @@
 # Changelog
 
+## [v1.0.32](https://github.com/KvalitetsIT/sts/tree/v1.0.32) (2023-06-12)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.31...v1.0.32)
+
+**Merged pull requests:**
+
+- Bump httpclient from 4.5.13 to 4.5.14 [\#152](https://github.com/KvalitetsIT/sts/pull/152) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump cxf.version from 3.5.4 to 4.0.2 [\#149](https://github.com/KvalitetsIT/sts/pull/149) ([dependabot[bot]](https://github.com/apps/dependabot))
+- oces3 [\#146](https://github.com/KvalitetsIT/sts/pull/146) ([JonasPed](https://github.com/JonasPed))
+- Bump cicirello/jacoco-badge-generator from 2.8.1 to 2.9.0 [\#144](https://github.com/KvalitetsIT/sts/pull/144) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump spring-boot-starter-parent from 2.7.5 to 3.1.0 [\#143](https://github.com/KvalitetsIT/sts/pull/143) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump testcontainers-version from 1.17.6 to 1.18.0 [\#139](https://github.com/KvalitetsIT/sts/pull/139) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump maven-compiler-plugin from 3.10.1 to 3.11.0 [\#138](https://github.com/KvalitetsIT/sts/pull/138) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump json-path from 2.7.0 to 2.8.0 [\#137](https://github.com/KvalitetsIT/sts/pull/137) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump mockserver-client-java from 5.14.0 to 5.15.0 [\#135](https://github.com/KvalitetsIT/sts/pull/135) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump mockito-core from 3.1.0 to 5.3.1 [\#130](https://github.com/KvalitetsIT/sts/pull/130) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.31](https://github.com/KvalitetsIT/sts/tree/v1.0.31) (2023-05-17)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.30...v1.0.31)
