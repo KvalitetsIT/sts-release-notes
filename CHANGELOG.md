@@ -1,6 +1,6 @@
 # Changelog
 
-## [v1.0.32](https://github.com/KvalitetsIT/sts/tree/v1.0.32) (2023-06-12)
+## [v1.0.32](https://github.com/KvalitetsIT/sts/tree/v1.0.32) (2023-06-13)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.31...v1.0.32)
 
