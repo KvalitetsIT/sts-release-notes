@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.0.33](https://github.com/KvalitetsIT/sts/tree/v1.0.33) (2023-06-15)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.32...v1.0.33)
+
+**Merged pull requests:**
+
+- Set default framework log level to INFO and not DEBUG. [\#153](https://github.com/KvalitetsIT/sts/pull/153) ([JonasPed](https://github.com/JonasPed))
+
 ## [v1.0.32](https://github.com/KvalitetsIT/sts/tree/v1.0.32) (2023-06-13)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.31...v1.0.32)
