@@ -1,5 +1,27 @@
 # Changelog
 
+## [v1.0.34](https://github.com/KvalitetsIT/sts/tree/v1.0.34) (2023-11-30)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.33...v1.0.34)
+
+**Merged pull requests:**
+
+- Bump org.springframework.boot:spring-boot-starter-parent from 3.1.2 to 3.2.0 [\#179](https://github.com/KvalitetsIT/sts/pull/179) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump testcontainers-version from 1.18.0 to 1.19.3 [\#178](https://github.com/KvalitetsIT/sts/pull/178) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/github-script from 6 to 7 [\#176](https://github.com/KvalitetsIT/sts/pull/176) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump org.mockito:mockito-core from 5.5.0 to 5.7.0 [\#175](https://github.com/KvalitetsIT/sts/pull/175) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump jakarta.xml.ws:jakarta.xml.ws-api from 4.0.0 to 4.0.1 [\#173](https://github.com/KvalitetsIT/sts/pull/173) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump org.apache.santuario:xmlsec from 2.1.7 to 2.2.6 in /soap-client [\#172](https://github.com/KvalitetsIT/sts/pull/172) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump jacoco.version from 0.8.10 to 0.8.11 [\#171](https://github.com/KvalitetsIT/sts/pull/171) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump cxf.version from 4.0.2 to 4.0.3 [\#167](https://github.com/KvalitetsIT/sts/pull/167) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump manusa/actions-setup-minikube from 2.7.2 to 2.9.0 [\#166](https://github.com/KvalitetsIT/sts/pull/166) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump docker/login-action from 1 to 3 [\#165](https://github.com/KvalitetsIT/sts/pull/165) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump cicirello/jacoco-badge-generator from 2.9.0 to 2.11.0 [\#164](https://github.com/KvalitetsIT/sts/pull/164) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/checkout from 3 to 4 [\#162](https://github.com/KvalitetsIT/sts/pull/162) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump org.mockito:mockito-core from 5.3.1 to 5.5.0 [\#159](https://github.com/KvalitetsIT/sts/pull/159) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump org.springframework.boot:spring-boot-starter-parent from 3.1.0 to 3.1.2 [\#158](https://github.com/KvalitetsIT/sts/pull/158) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump logstash-logback-encoder from 7.3 to 7.4 [\#155](https://github.com/KvalitetsIT/sts/pull/155) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.33](https://github.com/KvalitetsIT/sts/tree/v1.0.33) (2023-06-15)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.32...v1.0.33)
