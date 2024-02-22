@@ -1,5 +1,25 @@
 # Changelog
 
+## [v1.0.35](https://github.com/KvalitetsIT/sts/tree/v1.0.35) (2024-02-21)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.34...v1.0.35)
+
+**Merged pull requests:**
+
+- Do not default JVM\_OPTS in Helm chart. [\#196](https://github.com/KvalitetsIT/sts/pull/196) ([JonasPed](https://github.com/JonasPed))
+- Ensure config and lib folder is empty so keystores get \(re-\)created with correct password. [\#195](https://github.com/KvalitetsIT/sts/pull/195) ([JonasPed](https://github.com/JonasPed))
+- Bump dk.kvalitetsit:spring-prometheus-app-info from 2.0.2 to 2.0.3 [\#194](https://github.com/KvalitetsIT/sts/pull/194) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump testcontainers-version from 1.19.3 to 1.19.5 [\#193](https://github.com/KvalitetsIT/sts/pull/193) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump org.mockito:mockito-core from 5.7.0 to 5.10.0 [\#192](https://github.com/KvalitetsIT/sts/pull/192) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump com.jayway.jsonpath:json-path from 2.8.0 to 2.9.0 in /sts-external-claim-sources [\#190](https://github.com/KvalitetsIT/sts/pull/190) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump org.springframework.boot:spring-boot-starter-parent from 3.2.0 to 3.2.2 [\#189](https://github.com/KvalitetsIT/sts/pull/189) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump com.jayway.jsonpath:json-path from 2.8.0 to 2.9.0 [\#188](https://github.com/KvalitetsIT/sts/pull/188) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/cache from 3 to 4 [\#187](https://github.com/KvalitetsIT/sts/pull/187) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump manusa/actions-setup-minikube from 2.9.0 to 2.10.0 [\#185](https://github.com/KvalitetsIT/sts/pull/185) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump org.apache.maven.plugins:maven-compiler-plugin from 3.11.0 to 3.12.1 [\#183](https://github.com/KvalitetsIT/sts/pull/183) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/upload-artifact from 3 to 4 [\#182](https://github.com/KvalitetsIT/sts/pull/182) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/setup-java from 3 to 4 [\#181](https://github.com/KvalitetsIT/sts/pull/181) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.34](https://github.com/KvalitetsIT/sts/tree/v1.0.34) (2023-11-30)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.33...v1.0.34)
