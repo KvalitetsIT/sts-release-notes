@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.0.36](https://github.com/KvalitetsIT/sts/tree/v1.0.36) (2024-02-26)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.35...v1.0.36)
+
+**Merged pull requests:**
+
+- Recursively delete dirs. [\#197](https://github.com/KvalitetsIT/sts/pull/197) ([JonasPed](https://github.com/JonasPed))
+
 ## [v1.0.35](https://github.com/KvalitetsIT/sts/tree/v1.0.35) (2024-02-21)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.34...v1.0.35)
