@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.38](https://github.com/KvalitetsIT/sts/tree/v1.0.38) (2024-08-27)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.37...v1.0.38)
+
+## [v1.0.37](https://github.com/KvalitetsIT/sts/tree/v1.0.37) (2024-08-27)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.36...v1.0.37)
+
+**Merged pull requests:**
+
+- Netic requires container-port to be named http [\#212](https://github.com/KvalitetsIT/sts/pull/212) ([mbirchdk](https://github.com/mbirchdk))
+
 ## [v1.0.36](https://github.com/KvalitetsIT/sts/tree/v1.0.36) (2024-02-26)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.35...v1.0.36)
