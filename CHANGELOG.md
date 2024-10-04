@@ -1,5 +1,22 @@
 # Changelog
 
+## [Unreleased](https://github.com/KvalitetsIT/sts/tree/HEAD)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.39...HEAD)
+
+**Merged pull requests:**
+
+- Bump jakarta.xml.ws:jakarta.xml.ws-api from 4.0.1 to 4.0.2 [\#211](https://github.com/KvalitetsIT/sts/pull/211) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump org.apache.maven.plugins:maven-compiler-plugin from 3.12.1 to 3.13.0 [\#203](https://github.com/KvalitetsIT/sts/pull/203) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [v1.0.39](https://github.com/KvalitetsIT/sts/tree/v1.0.39) (2024-10-01)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.38...v1.0.39)
+
+**Merged pull requests:**
+
+- Add priorityclass for all deployments [\#213](https://github.com/KvalitetsIT/sts/pull/213) ([mbirchdk](https://github.com/mbirchdk))
+
 ## [v1.0.38](https://github.com/KvalitetsIT/sts/tree/v1.0.38) (2024-08-27)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.37...v1.0.38)
