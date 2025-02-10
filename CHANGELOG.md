@@ -1,11 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/KvalitetsIT/sts/tree/HEAD)
+## [v1.0.40](https://github.com/KvalitetsIT/sts/tree/v1.0.40) (2025-02-07)
 
-[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.39...HEAD)
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.39...v1.0.40)
 
 **Merged pull requests:**
 
+- Ma 807: Update dependencies [\#228](https://github.com/KvalitetsIT/sts/pull/228) ([benjaminkit](https://github.com/benjaminkit))
 - Bump jakarta.xml.ws:jakarta.xml.ws-api from 4.0.1 to 4.0.2 [\#211](https://github.com/KvalitetsIT/sts/pull/211) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump org.apache.maven.plugins:maven-compiler-plugin from 3.12.1 to 3.13.0 [\#203](https://github.com/KvalitetsIT/sts/pull/203) ([dependabot[bot]](https://github.com/apps/dependabot))
 
