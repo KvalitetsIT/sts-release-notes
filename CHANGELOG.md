@@ -1,5 +1,21 @@
 # Changelog
 
+## [v1.0.41](https://github.com/KvalitetsIT/sts/tree/v1.0.41) (2025-04-28)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.40...v1.0.41)
+
+**Merged pull requests:**
+
+- updated cxf [\#244](https://github.com/KvalitetsIT/sts/pull/244) ([benjaminkit](https://github.com/benjaminkit))
+- Bump com.google.code.gson:gson from 2.11.0 to 2.13.0 [\#243](https://github.com/KvalitetsIT/sts/pull/243) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump org.mockito:mockito-core from 5.14.2 to 5.17.0 [\#242](https://github.com/KvalitetsIT/sts/pull/242) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump net.logstash.logback:logstash-logback-encoder from 8.0 to 8.1 [\#241](https://github.com/KvalitetsIT/sts/pull/241) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump jacoco.version from 0.8.12 to 0.8.13 [\#240](https://github.com/KvalitetsIT/sts/pull/240) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump org.springframework.boot:spring-boot-starter-parent from 3.4.2 to 3.4.4 [\#239](https://github.com/KvalitetsIT/sts/pull/239) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump testcontainers-version from 1.20.4 to 1.20.6 [\#237](https://github.com/KvalitetsIT/sts/pull/237) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump org.apache.maven.plugins:maven-compiler-plugin from 3.13.0 to 3.14.0 [\#232](https://github.com/KvalitetsIT/sts/pull/232) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump manusa/actions-setup-minikube from 2.10.0 to 2.13.1 [\#231](https://github.com/KvalitetsIT/sts/pull/231) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.40](https://github.com/KvalitetsIT/sts/tree/v1.0.40) (2025-02-07)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.39...v1.0.40)
