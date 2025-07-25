@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.0.42](https://github.com/KvalitetsIT/sts/tree/v1.0.42) (2025-07-25)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.41...v1.0.42)
+
+**Merged pull requests:**
+
+- \[MA-1140\] Dependency updates [\#258](https://github.com/KvalitetsIT/sts/pull/258) ([AmalieDC](https://github.com/AmalieDC))
+- Bump manusa/actions-setup-minikube from 2.13.1 to 2.14.0 [\#248](https://github.com/KvalitetsIT/sts/pull/248) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.41](https://github.com/KvalitetsIT/sts/tree/v1.0.41) (2025-04-28)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.40...v1.0.41)
@@ -251,7 +260,7 @@
 
 **Merged pull requests:**
 
-- Add sealed secret to Helm [\#17](https://github.com/KvalitetsIT/sts/pull/17) ([NeutraChikara](https://github.com/NeutraChikara))
+- Add sealed secret to Helm [\#17](https://github.com/KvalitetsIT/sts/pull/17) ([henrikmagni](https://github.com/henrikmagni))
 
 ## [v1.0.20](https://github.com/KvalitetsIT/sts/tree/v1.0.20) (2022-03-15)
 
