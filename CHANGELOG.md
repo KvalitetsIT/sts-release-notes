@@ -1,5 +1,25 @@
 # Changelog
 
+## [v1.0.43](https://github.com/KvalitetsIT/sts/tree/v1.0.43) (2025-12-22)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.42...v1.0.43)
+
+**Merged pull requests:**
+
+- Bump org.mockito:mockito-core from 5.18.0 to 5.21.0 [\#283](https://github.com/KvalitetsIT/sts/pull/283) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/cache from 4 to 5 [\#282](https://github.com/KvalitetsIT/sts/pull/282) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/upload-artifact from 4 to 6 [\#281](https://github.com/KvalitetsIT/sts/pull/281) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump TestContainers [\#279](https://github.com/KvalitetsIT/sts/pull/279) ([fma-spec](https://github.com/fma-spec))
+- Bump org.springframework.boot:spring-boot-starter-parent from 3.5.3 to 3.5.8 [\#277](https://github.com/KvalitetsIT/sts/pull/277) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/checkout from 4 to 6 [\#275](https://github.com/KvalitetsIT/sts/pull/275) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump com.jayway.jsonpath:json-path from 2.9.0 to 2.10.0 [\#274](https://github.com/KvalitetsIT/sts/pull/274) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump net.logstash.logback:logstash-logback-encoder from 8.1 to 9.0 [\#273](https://github.com/KvalitetsIT/sts/pull/273) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump jacoco.version from 0.8.13 to 0.8.14 [\#270](https://github.com/KvalitetsIT/sts/pull/270) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump org.apache.maven.plugins:maven-compiler-plugin from 3.14.0 to 3.14.1 [\#267](https://github.com/KvalitetsIT/sts/pull/267) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump com.google.code.gson:gson from 2.13.1 to 2.13.2 [\#266](https://github.com/KvalitetsIT/sts/pull/266) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/github-script from 7 to 8 [\#265](https://github.com/KvalitetsIT/sts/pull/265) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/setup-java from 4 to 5 [\#264](https://github.com/KvalitetsIT/sts/pull/264) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.42](https://github.com/KvalitetsIT/sts/tree/v1.0.42) (2025-07-25)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.41...v1.0.42)
