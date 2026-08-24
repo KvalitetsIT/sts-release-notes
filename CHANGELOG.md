@@ -1,5 +1,15 @@
 # Changelog
 
+## [v1.0.45](https://github.com/KvalitetsIT/sts/tree/v1.0.45) (2026-08-24)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.44...v1.0.45)
+
+**Merged pull requests:**
+
+- Fix build [\#337](https://github.com/KvalitetsIT/sts/pull/337) ([AmalieDC](https://github.com/AmalieDC))
+- Add containerPortName option [\#329](https://github.com/KvalitetsIT/sts/pull/329) ([AmalieDC](https://github.com/AmalieDC))
+- chore: add `cooldown` to dependabot config [\#306](https://github.com/KvalitetsIT/sts/pull/306) ([luxass](https://github.com/luxass))
+
 ## [v1.0.44](https://github.com/KvalitetsIT/sts/tree/v1.0.44) (2026-04-29)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.43...v1.0.44)
@@ -14,6 +24,8 @@
 - Bump org.springframework.boot:spring-boot-starter-parent from 3.5.8 to 3.5.13 [\#300](https://github.com/KvalitetsIT/sts/pull/300) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/github-script from 8 to 9 [\#299](https://github.com/KvalitetsIT/sts/pull/299) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump org.mockito:mockito-core from 5.21.0 to 5.23.0 [\#298](https://github.com/KvalitetsIT/sts/pull/298) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump manusa/actions-setup-minikube from 2.14.0 to 2.16.1 [\#296](https://github.com/KvalitetsIT/sts/pull/296) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump docker/login-action from 3 to 4 [\#295](https://github.com/KvalitetsIT/sts/pull/295) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/upload-artifact from 6 to 7 [\#294](https://github.com/KvalitetsIT/sts/pull/294) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump jakarta.xml.ws:jakarta.xml.ws-api from 4.0.2 to 4.0.3 [\#293](https://github.com/KvalitetsIT/sts/pull/293) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump com.jayway.jsonpath:json-path from 2.10.0 to 3.0.0 [\#292](https://github.com/KvalitetsIT/sts/pull/292) ([dependabot[bot]](https://github.com/apps/dependabot))
@@ -62,6 +74,7 @@
 - Bump jacoco.version from 0.8.12 to 0.8.13 [\#240](https://github.com/KvalitetsIT/sts/pull/240) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump org.springframework.boot:spring-boot-starter-parent from 3.4.2 to 3.4.4 [\#239](https://github.com/KvalitetsIT/sts/pull/239) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump testcontainers-version from 1.20.4 to 1.20.6 [\#237](https://github.com/KvalitetsIT/sts/pull/237) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump org.apache.maven.plugins:maven-compiler-plugin from 3.13.0 to 3.14.0 [\#232](https://github.com/KvalitetsIT/sts/pull/232) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump manusa/actions-setup-minikube from 2.10.0 to 2.13.1 [\#231](https://github.com/KvalitetsIT/sts/pull/231) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.0.40](https://github.com/KvalitetsIT/sts/tree/v1.0.40) (2025-02-07)
@@ -208,7 +221,7 @@
 
 **Merged pull requests:**
 
-- 25 helm chart improvements [\#112](https://github.com/KvalitetsIT/sts/pull/112) ([bork91](https://github.com/bork91))
+- 25 helm chart improvements [\#112](https://github.com/KvalitetsIT/sts/pull/112) ([bryne91](https://github.com/bryne91))
 
 ## [v1.0.28](https://github.com/KvalitetsIT/sts/tree/v1.0.28) (2023-02-15)
 
@@ -216,8 +229,8 @@
 
 **Merged pull requests:**
 
-- Helm chart improvements [\#111](https://github.com/KvalitetsIT/sts/pull/111) ([bork91](https://github.com/bork91))
-- Add default security context [\#110](https://github.com/KvalitetsIT/sts/pull/110) ([bork91](https://github.com/bork91))
+- Helm chart improvements [\#111](https://github.com/KvalitetsIT/sts/pull/111) ([bryne91](https://github.com/bryne91))
+- Add default security context [\#110](https://github.com/KvalitetsIT/sts/pull/110) ([bryne91](https://github.com/bryne91))
 - Replace expired certificate in integrationtest. [\#108](https://github.com/KvalitetsIT/sts/pull/108) ([JonasPed](https://github.com/JonasPed))
 
 ## [v1.0.27](https://github.com/KvalitetsIT/sts/tree/v1.0.27) (2022-11-29)
@@ -398,7 +411,7 @@
 
 **Merged pull requests:**
 
-- Feature/helm [\#2](https://github.com/KvalitetsIT/sts/pull/2) ([bork91](https://github.com/bork91))
+- Feature/helm [\#2](https://github.com/KvalitetsIT/sts/pull/2) ([bryne91](https://github.com/bryne91))
 
 ## [v1.0.1](https://github.com/KvalitetsIT/sts/tree/v1.0.1) (2020-06-16)
 
