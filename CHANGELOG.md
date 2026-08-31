@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.0.46](https://github.com/KvalitetsIT/sts/tree/v1.0.46) (2026-08-24)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.45...v1.0.46)
+
+**Merged pull requests:**
+
+- migrate Spring-Boot from 3.5.14 to 4.1.0 [\#338](https://github.com/KvalitetsIT/sts/pull/338) ([fma-spec](https://github.com/fma-spec))
+- Bump org.mock-server:mockserver-client-java from 5.15.0 to 7.5.0 [\#336](https://github.com/KvalitetsIT/sts/pull/336) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.45](https://github.com/KvalitetsIT/sts/tree/v1.0.45) (2026-08-24)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.44...v1.0.45)
