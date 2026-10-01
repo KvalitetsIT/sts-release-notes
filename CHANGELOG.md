@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.0.47](https://github.com/KvalitetsIT/sts/tree/v1.0.47) (2026-09-25)
+
+[Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.46...v1.0.47)
+
+**Merged pull requests:**
+
+- Bump Tomcat to 11.0.26 to address Critical Vulnerabilities [\#343](https://github.com/KvalitetsIT/sts/pull/343) ([fma-spec](https://github.com/fma-spec))
+
 ## [v1.0.46](https://github.com/KvalitetsIT/sts/tree/v1.0.46) (2026-08-24)
 
 [Full Changelog](https://github.com/KvalitetsIT/sts/compare/v1.0.45...v1.0.46)
